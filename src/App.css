@@ -1,0 +1,55 @@
+.search-input {
+  width: 50vw;
+  height: 30px;
+}
+.list-container {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+.titles {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0px;
+  padding-left: 0px;
+}
+.h-line {
+  margin-left: 40px;
+}
+.title-check-box {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+.title-name {
+  font-weight: bold;
+  font-size: 20px;
+}
+.title-role {
+  font-weight: bold;
+  font-size: 20px;
+}
+.title-email {
+  font-weight: bold;
+  font-size: 20px;
+}
+.title-actions {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.delete-selected {
+  margin-left: 50px;
+  border: solid seagreen 1px;
+  background-color: seagreen;
+  padding: 10px 15px 10px 15px;
+  border-radius: 20px;
+  color: white;
+}

@@ -1,0 +1,56 @@
+.user-details-container {
+  display: flex;
+
+  align-items: center;
+  padding: 0px;
+  margin: 0px;
+}
+.user-card-container {
+  margin: 0px;
+  padding: 0px;
+}
+.check-box {
+  width: 20px;
+  height: 20px;
+}
+.delete-button {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid white 0px;
+  background-color: white;
+  cursor: pointer;
+  margin-left: 200px;
+}
+.h-line {
+  margin: 0px;
+  padding: 0px;
+}
+.delete-img {
+  width: 20px;
+  height: 20px;
+  margin: 1px;
+}
+.input-container {
+  margin-left: 120px;
+  margin-right: 0px;
+}
+.user-name-container {
+  margin-left: 190px;
+  width: 150px;
+}
+.email-container {
+  margin-left: 140px;
+  width: 150px;
+}
+.role-container {
+  margin-left: 130px;
+  width: 150px;
+}
+.list-button {
+  background-color: white;
+  border: solid white 0px;
+  cursor: pointer;
+}

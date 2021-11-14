@@ -1,0 +1,17 @@
+.pagenumbers-container {
+  display: flex;
+  list-style-type: none;
+  text-decoration: none;
+}
+.pagenumber-box {
+  border: solid grey 1px;
+  padding: 5px 8px 5px 8px;
+  margin: 3px;
+}
+.pagenumber {
+  text-decoration: none;
+  margin: 0px;
+}
+.active-page-number {
+  background-color: lightseagreen;
+}
